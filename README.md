@@ -26,7 +26,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 **Following is what you need for this book:**
 Whether you're completely new to Blender, or an animation veteran enticed by Blender's newest features, this book will have something for you.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
 
 ### Software and Hardware List
 
