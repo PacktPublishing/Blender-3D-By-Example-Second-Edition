@@ -40,6 +40,8 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| ---------------------------------------|
 | 1-16     | Blender 2.83                        | Windows 10, 8.1, 7, macOS 10.12+, Linux|
 | 1-16     | Krita 4.2.9                         | Windows 8.1 or higher, OSX 10.12, Linux|
+| 16       | Meshroom (Nvidia CUDA-enabled GPU)  | Windows, Mac OS X, and Linux           |
+| 16       | Agisoft De-Lighter                  | Windows, Mac OS X, and Linux           |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789612561_ColorImages.pdf).
