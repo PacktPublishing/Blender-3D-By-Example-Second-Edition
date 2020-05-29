@@ -26,6 +26,12 @@ alt="https://www.packtpub.com/" border="5" /></a>
 **Following is what you need for this book:**
 Whether you're completely new to Blender, or an animation veteran enticed by Blender's newest features, this book will have something for you.
 
+### 
+Blender's capabilities vary greatly depending on the quality of your computer hardware. As a general rule, the challenges you can throw at Blender on your computer will be close to the quality of computer game that your computer can run. If you are on a low end machine, it is recommended that you lower polygon counts, render samples, and texture sizes if you feel like your computer can't handle the example files or project workflows. Information on how different computer hardware performs with Blender can be found at https://opendata.blender.org/   
+
+###
+I'm erring on the side of generalities here, since "good computer" and "bad computer" are relative terms, and putting specific numbers re: GPUs, CPUS, RAM, etc. Plus opendata.blender.org will continue to grow with age. 
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
 
 ### Software and Hardware List
@@ -36,7 +42,7 @@ With the following software and hardware list you can run all code files present
 | 1-16     | Krita 4.2.9                         | Windows 8.1 or higher, OSX 10.12, Linux|
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789612561_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
