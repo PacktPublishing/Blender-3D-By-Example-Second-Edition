@@ -47,6 +47,9 @@ With the following software and hardware list you can run all code files present
 ### We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789612561_ColorImages.pdf).
 
 
+## Errata
+* Page 185 (Instruction 4): **create a cylinder with a .02 radius and no end caps, then shade it smooth** _should be_ **Object Mode, Add  a cylinder with a .02 radius and no end caps, then shade it smooth.**
+
 ### Related products <Other books you may enjoy>
 * Practical Autodesk AutoCAD 2021 and AutoCAD LT 2021 [[Packt]](https://www.packtpub.com/in/business-other/learn-autocad-2020-and-autocad-lt-2020?utm_source=github&utm_medium=repository&utm_campaign=9781789809152) [[Amazon]](https://www.amazon.com/dp/1789809150)
 
